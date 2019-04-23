@@ -1,2 +1,2 @@
-# Scrooge-Coin
+# Scrooge Coin
 Scrooge Coin programming task 
